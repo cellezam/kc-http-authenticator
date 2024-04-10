@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.sventorben.keycloak</groupId>
-    <artifactId>keycloak-home-idp-discovery</artifactId>
+    <artifactId>keycloak-user-password-delegation</artifactId>
     <version>24.0.1-SNAPSHOT</version>
 
     <name>Keycloak: Home IdP Discovery</name>

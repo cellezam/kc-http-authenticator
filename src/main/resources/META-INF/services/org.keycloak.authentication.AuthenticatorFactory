@@ -1,1 +1,1 @@
-de.sventorben.keycloak.authentication.hidpd.HomeIdpDiscoveryAuthenticatorFactory
+de.cellezam.keycloak.authentication.httpauth.HttpUserPasswordFactory
